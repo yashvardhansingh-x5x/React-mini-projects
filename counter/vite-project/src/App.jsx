@@ -3,15 +3,15 @@ import './App.css'
 
 function App() {
 
-  const [counter, setCounter] = useState(15)
+  const [counter, setCounter] = useState(5)
 
   const addValue = () => {
     setCounter(counter + 1)
   }
 
   const removeValue = () => {
-    setCounter(counter - 1)
-  }
+  setCounter(counter > 0 ? counter - 1 : 0)
+}
 
   return (
     <>
