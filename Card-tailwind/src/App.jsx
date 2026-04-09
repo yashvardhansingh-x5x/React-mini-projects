@@ -12,11 +12,9 @@ function App() {
             <Card name="Yashvardhan" role="Frontend Dev" image="https://images.pexels.com/photos/13837367/pexels-photo-13837367.jpeg" />
             <Card name="Rahul" role="Backend Dev" image="https://images.pexels.com/photos/13837367/pexels-photo-13837367.jpeg" />
             <Card name="Aman" role="Full Stack" image="https://images.pexels.com/photos/13837367/pexels-photo-13837367.jpeg" />
-            <card/>
             <Card name="Yashvardhan" role="Frontend Dev" image="https://images.pexels.com/photos/13837367/pexels-photo-13837367.jpeg" />
             <Card name="Rahul" role="Backend Dev" image="https://images.pexels.com/photos/13837367/pexels-photo-13837367.jpeg" />
             <Card name="Aman" role="Full Stack" image="https://images.pexels.com/photos/13837367/pexels-photo-13837367.jpeg" />
-            <card/>
         </div>
     </>
   );
